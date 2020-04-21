@@ -1,5 +1,5 @@
-## This Folder contains the code for the project in python using PyCharm.
-## All the coding file are in .py format.
+### This Folder contains the code for the project in python using PyCharm.
+### All the coding file are in .py format.
 
 ## Below are the steps to follow to run code
 
