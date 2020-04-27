@@ -26,13 +26,13 @@ Please follow the steps of instructions mentioned in pdf file named -> Dataset U
   
   ==>  image = cv2.imread(" Please provide the path of testing folder named (images_training_rev1) " + i + '.jpg')
   
-  #### For predict_testing file - predict_testing.py, make changes for paths
-  ###### In  Data Loading section make changes for below :
+  ### For predict_testing file - predict_testing.py, make changes for paths
+  ##### In  Data Loading section make changes for below :
   ==>  path_file_2 = ' Please provide the path of testing folder named (testing_images) here '
   
   ==> img = cv2.imread("Please provide the path of testing folder named (testing_images)" + i)
   
-  ###### In "Submission CS FOR LEADERSHIP" section make changes for below :
+  ##### In "Submission CS FOR LEADERSHIP" section make changes for below :
   ==>  df = pd.read_csv('Please provide the path of csv file named (training_solutions_rev1.csv) from your terminal')
   
   ==>  val_files = os.listdir('Please provide the path of testing folder named (testing_images)')
