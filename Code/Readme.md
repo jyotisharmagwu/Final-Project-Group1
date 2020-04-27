@@ -7,7 +7,7 @@
 To download the dataset to your cloud we used Kaggle API commands.
 Please follow the steps of instructions mentioned in pdf file named -> Dataset Upload and Download steps.pdf
 
-#### Please make sure to unzip all the folder names below before running the code:
+#### Please make sure to unzip all the folders named below before running the code on your terminal:
  1) images_training_rev1
  2) training_solutions_rev1
  3) training_solutions_rev1
