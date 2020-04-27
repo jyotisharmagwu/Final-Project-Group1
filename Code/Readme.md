@@ -21,7 +21,7 @@ Please follow the steps of instructions mentioned in pdf file named -> Dataset U
   
   For running above highlighted training and testing files, please change the path to the path of your directories where the upzipped     data files/folders of the dataset saved in your terminal:
   
-  #### For all train files (model__train_cnn.py, model__train_dataaugumentation_cnn.py, model__train_resnet.py)
+  #### In Data Import section For all train files (model__train_cnn.py, model__train_dataaugumentation_cnn.py, model__train_resnet.py)
   ==>  df = pd.read_csv("  Please provide the path of csv file named (training_solutions_rev1.csv) from your terminal") 
   
   ==>  image = cv2.imread(" Please provide the path of testing folder named (images_training_rev1) " + i + '.jpg')
