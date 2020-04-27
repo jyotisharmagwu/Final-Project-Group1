@@ -66,7 +66,7 @@ def predict(final_path):
             return x
 
     cnn = Net()
-    cnn.load_state_dict(torch.load('model_mlgrp1.pt'))
+    cnn.load_state_dict(torch.load('model_GROUP1.pt'))
 
     with torch.no_grad():
         cnn.eval()
