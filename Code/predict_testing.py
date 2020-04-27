@@ -16,7 +16,7 @@ final_path = os.path.join(path_file,path_file_2)
 
 RESIZE_TO = 64
 DROPOUT =0.2
-
+# =================================   Data Loading  ==========================================
 def predict(final_path):
     images = []
     x_batch = []
