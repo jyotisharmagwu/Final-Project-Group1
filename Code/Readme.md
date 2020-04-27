@@ -12,7 +12,7 @@ Please follow the steps of instructions mentioned in pdf file named -> Dataset U
  2) training_solutions_rev1
  3) training_solutions_rev1
  
- #### 2) Path change for running model trainfiles and predict files:
+ ### 2) Path change for running model trainfiles and predict files:
  we have build three different training models using CNN named as below:
   - model__train_cnn.py
   - model__train_dataaugumentation_cnn.py
