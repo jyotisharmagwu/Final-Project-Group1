@@ -26,6 +26,10 @@ Please follow the steps of instructions mentioned in pdf file named -> Dataset U
   
   ==>  image = cv2.imread(" Please provide the path of testing folder named (images_training_rev1) " + i + '.jpg')
   
+  
+  ## Evaluation:
+  Our analysis says that after applying three kind of models we found our custom model with data augumentation makes more sense.
+  
   ### For testing predict file (predict_testing.py) make changes for paths
   ##### In  Data Loading section make changes for below :
   ==>  path_file_2 = ' Please provide the path of testing folder named (testing_images) here '
