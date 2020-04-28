@@ -5,7 +5,7 @@ The following folders are for official grading:
 
 #### Group-Proposal: 
 
-This folder contains the proposed research plan for Group15. It was submitted in advance of the analysis as indicated by the date and time stamp.
+This folder contains the proposed research plan for Group1. It was submitted in advance of the analysis as indicated by the date and time stamp.
 
 #### Final-Group-Presentation: 
 
