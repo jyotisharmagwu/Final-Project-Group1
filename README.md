@@ -21,4 +21,4 @@ This folder contains all the .py files and supporting files that are needed to e
 
 #### Individual-Final-Project-Report 
 
-This folder contains individual folders for each group member's reflection on her personal contribution to the overall project.  
+This folder contains individual folders for each group member's reflection on their personal contribution to the overall project.  
