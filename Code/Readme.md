@@ -1,10 +1,9 @@
-# For our problem statement we are building model using CNN architecture with PyTorch as FRAMEWORK
+# Problem Statement:
+To develop a Neural Network to classify Galaxy Images for 37 different categories with probabilities ranging between 0 to 1. As we have to classify 37 different labels for each image of the galaxy so its a Multi label Classification Problem.
 
-#### This Folder contains the code for the project.
-#### All the coding file are written in .py format using PyCharm
+## We are building model using CNN architecture with PyTorch as FRAMEWORK. All the coding file are written in .py format using PyCharm
 
-
-## Below are the steps to follow to run code
+# Below are the steps to follow to run code:
 
 ### 1) Dataset Download:
 To download the dataset to your cloud we used Kaggle API commands.
