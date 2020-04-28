@@ -1,13 +1,24 @@
 # Final-Project-Group1
-Final Project ML2-Deep Learning
-- Galaxy Zoo Image Classification - using CNN architecture and PYTORCH as Framework.
+Group 1 Machine Learning 2 - Deep Learning
 
-## Problem Statement:
-To develop a Neural Network to classify Galaxy Images for 37 different categories with probabilities ranging between 0 to 1. As we have to classify 37 different labels for each image of the galaxy so its a Multi label Classification Problem.
+The following folders are for official grading:
 
-## Approach
-### To make the network manageable for training and validation or testing preprocessinng steps are performed:
-#### Original Image - 424 x 424 
-#### Center Crop - 256 x 256
-#### Image Shape - 3 x 64 x 64  (RGB)
-#### Target labels - One-hot encoded using Multi-label Binarizer
+#### Group-Proposal: 
+
+This folder contains the proposed research plan for Group15. It was submitted in advance of the analysis as indicated by the date and time stamp.
+
+#### Final-Group-Presentation: 
+
+This folder contains the presentation slideshow in a PDF.
+
+#### Final-Group-Project-Report 
+
+This folder contains a PDF of the final written report for Group 1 project. 
+
+#### Code 
+
+This folder contains all the .py files and supporting files that are needed to execute the code for this project.
+
+#### Individual-Final-Report 
+
+This folder contains individual folders for each group member's reflection on her personal contribution to the overall project.  
