@@ -87,7 +87,7 @@ val_files = os.listdir('/home/ubuntu/Deep-Learning/Final-Project-ML/testing_imag
 ids = np.array([v.split('.')[0] for v in val_files]).reshape(len(val_files),1)
 submission_df = pd.DataFrame(np.hstack((ids, y_pred)), columns=df.columns)
 submission_df = submission_df.sort_values(by=['GalaxyID'])
-submission_df.to_csv('group1_submission.csv', index=False)
+submission_df.to_csv('Output.csv', index=False)
 
 
 
