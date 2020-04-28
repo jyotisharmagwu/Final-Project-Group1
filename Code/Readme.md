@@ -1,5 +1,6 @@
 #### This Folder contains the code for the project.
 #### All the coding file are written in .py format using PyCharm
+#### For our problem statement we are building model using CNN architecture with PyTorch as FRAMEWORK
 
 ## Below are the steps to follow to run code
 
