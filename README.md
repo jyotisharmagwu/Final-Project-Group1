@@ -19,6 +19,6 @@ This folder contains a PDF of the final written report for Group 1 project.
 
 This folder contains all the .py files and supporting files that are needed to execute the code for this project.
 
-#### Individual-Final-Report 
+#### Individual-Final-Project-Report 
 
 This folder contains individual folders for each group member's reflection on her personal contribution to the overall project.  
