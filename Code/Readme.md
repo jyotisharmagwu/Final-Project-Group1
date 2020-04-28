@@ -24,12 +24,9 @@ Please follow the steps of instructions mentioned in pdf file named -> Dataset U
   #### In Data Import section For all train files (model__train_cnn.py, model__train_dataaugumentation_cnn.py, model__train_resnet.py)
   ==>  df = pd.read_csv("  Please provide the path of csv file named (training_solutions_rev1.csv) from your terminal") 
   
-  ==>  image = cv2.imread(" Please provide the path of testing folder named (images_training_rev1) " + i + '.jpg')
+  ==>  image = cv2.imread(" Please provide the path of testing folder named (images_training_rev1) " + i + '.jpg') 
   
-  
-  ## Evaluation:
-  Our analysis says that after applying three kind of models we found our custom model with data augumentation makes more sense.
-  
+   
   ### For testing predict file (predict_testing.py) make changes for paths
   ##### In  Data Loading section make changes for below :
   ==>  path_file_2 = ' Please provide the path of testing folder named (testing_images) here '
@@ -41,6 +38,9 @@ Please follow the steps of instructions mentioned in pdf file named -> Dataset U
   
   ==>  val_files = os.listdir('Please provide the path of testing folder named (testing_images)')
   
+  
+  # Evaluation:
+  Our analysis says that after applying three kind of models we found our custom model with data augumentation makes more sense. RMSE for training and validations set are giviung us a smooth curve.
   
   
   
