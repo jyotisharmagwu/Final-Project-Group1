@@ -81,13 +81,4 @@ print(y_pred.shape)
 print(y_pred.dtype)
 print(y_pred)
 
-# ============================Submission CS FOR LEADERSHIP ON KAGGLE ===================================================
-df = pd.read_csv('/home/ubuntu/Deep-Learning/Final-Project-ML/training_solutions_rev1.csv')
-val_files = os.listdir('/home/ubuntu/Deep-Learning/Final-Project-ML/testing_images/')
-ids = np.array([v.split('.')[0] for v in val_files]).reshape(len(val_files),1)
-submission_df = pd.DataFrame(np.hstack((ids, y_pred)), columns=df.columns)
-submission_df = submission_df.sort_values(by=['GalaxyID'])
-submission_df.to_csv('group1_submission.csv', index=False)
-
-
 
