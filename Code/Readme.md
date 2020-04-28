@@ -42,6 +42,6 @@ Please follow the steps of instructions mentioned in pdf file named -> Dataset U
   # Evaluation:
   Our analysis says that after applying three kind of models we found our custom model with data augumentation makes more sense. RMSE for training and validations set are giviung us a smooth curve.
   
-  # ResNet saved model and csv submission file for kaggle competion output is on the below sharable link.(Open through GWU Email ID)
+  # ResNet saved model and csv submission file for kaggle competion output is on the below shareable link.(Open access through GWU Email    ID ONLY)
   https://drive.google.com/open?id=1Qn4Ul0LOoKytj1oC7PeAtNtTKFq7YKg1
   
