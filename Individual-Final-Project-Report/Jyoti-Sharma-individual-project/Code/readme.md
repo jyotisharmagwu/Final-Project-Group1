@@ -1,2 +1,2 @@
 
-# This folder has Individual Code work and Individual Report
+# This folder has py file for the cnn architecture and the model build for the dataset
