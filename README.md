@@ -1,5 +1,5 @@
 # Final-Project-Group1
-Group 1 Machine Learning 2 - Deep Learning
+Group1 - Machine Learning 2
 
 The following folders are for official grading:
 
